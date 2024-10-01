@@ -1,10 +1,10 @@
 # Platformer
 
 Lets make a platformer!
-Our first collaborative exercise. using the Agile methodology.
+Our first collaborative exercise. using the Agile methodology.<br>
 
-For new developers:
-Upon joining the project, you are expected to be familiar with basic OOP (object oriented programming) in c++.
+For new developers:<br>
+<I>Upon joining the project, you are expected to be familiar with basic OOP (object oriented programming) in c++.</I>
 
 
 Project detail: <br>
@@ -28,7 +28,5 @@ Project detail: <br>
   You will be familiar with Git technology and engage in a developement that uses the scrum principle. <br>
 
 <b>What to expect? </b> <br>
-  Lets not expect too much in making a successful project. as it is our first time!, but we should also learn from our failure. So that someday <b>it is your turn to Host the project!</b>.<br>
-  Upon joining the project, you are expected to be familiar with basic OOP.
-  
-  
+  Let’s manage our expectations; this is our first project! We’ll learn from our failures and grow together, paving the way for you to host future projects.</b>.<br>
+  Its okay if you are new in, maybe EVERYTHING about this, rest assured this is a beginner-friendly project!
