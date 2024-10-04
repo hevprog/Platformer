@@ -1,10 +1,10 @@
-#include "header.hpp"
+#include "Character.hpp"
 
 Player::Player()
 {
     image = LoadTexture("Graphics/Character/png/Attack (1).png");
-    position.x = (GetScreenWidth() - image.width)/2;
-    position.y = GetScreenHeight() - image.height - 100;
+    position.x = 0;
+    position.y = GetScreenHeight() - image.height;
 }
 
 Player::~Player() {
