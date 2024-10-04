@@ -1,4 +1,5 @@
 #include <raylib.h>
+#include "header.cpp"
 
 int main() {
     const int ScreenWidth = 1000;
@@ -12,6 +13,7 @@ int main() {
     return 1;
     }
 
+    Player player;
     SetTargetFPS(60);
 
     while(!WindowShouldClose()) {
@@ -19,6 +21,7 @@ int main() {
         ClearBackground(RAYWHITE);
 
         DrawTexture(background, 0, 0, WHITE);
+        player.Draw();
 
         EndDrawing();
     }
